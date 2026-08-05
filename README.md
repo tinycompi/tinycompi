@@ -3,10 +3,11 @@
 I am a Data Professional with a foundation in computer science, currently specializing in Data Science, Machine Learning, and building automated data pipelines. I love tackling messy, unstructured data and engineering it into clean, AI-ready formats.
 
 ### 🛠️ Tech Stack & Tools
-* **Core Languages:** Python, SQL, R
-* **Data Engineering & Analysis:** Pandas, BeautifulSoup, Relational Databases, Data Wrangling, Exploratory Data Analysis (EDA)
-* **Machine Learning & AI:** LangChain, Vector Embeddings, RAG Architectures, Custom Parsing Algorithms
-* **Foundational/Past Experience:** Java, C++
+* **Languages:** Python, SQL, R, Bash 
+* **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, BeautifulSoup
+* **Data Science & ML:** Machine Learning Pipelines, Recommender Systems, Random Forests, Regression, Causal Inference, A/B Testing, Exploratory Data Analysis (EDA)
+* **AI & Data Engineering:** Vector Embeddings, RAG Architectures, Custom Parsing Algorithms, Relational Databases (PostgreSQL)
+* **Foundational Experience:** Java, Kotlin, C++
 
 ---
 
